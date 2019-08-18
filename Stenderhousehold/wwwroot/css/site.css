@@ -35,3 +35,8 @@ body {
         display: none;
     }
 }
+
+#mealDemo {
+    border-collapse: separate;
+    border-spacing: 15px;
+}

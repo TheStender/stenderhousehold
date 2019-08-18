@@ -63,7 +63,7 @@ using Stenderhousehold.Models;
             WriteLiteral("\r\n<h2>Budget!</h2>\r\n<p>Spend all the money!</p>\r\n<p>No, wait, save all the money!</p>\r\n<p>SPEND!</p>\r\n<p>SAVE!</p>\r\n\r\n\r\n");
             EndContext();
             BeginContext(164, 33, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5e64bcf506654c70809ad7e8584397e1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3dda80ba1dcd4fe798aa38647d524465", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
